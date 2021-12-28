@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "islFOKatkKER0eWCKQcOq4+tC6YxdCzkUSN+EJjEho0=",
+  "Source": "CRUD_PatientLabTestAPI",
+  "BasePath": "_content/CRUD_PatientLabTestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
